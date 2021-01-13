@@ -1,0 +1,6 @@
+# Project exclude paths
+/ha-common/target/
+/ha-gateway/target/
+/ha-item/ha-item-interface/target/
+/ha-item/ha-item-service/target/
+/ha-registry/target/
